@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sasha Firsov from Bay Area, CA
+- 👀 I’m interested in newest IT and science trends. 
+- 🌱 I’m currently learning GraphQL implementations for back- and front-end
+- 💞️ I’m looking to collaborate on next generation of technologies: CDN as JS repo and deployment, microapplication container, XST in browser.
+- 📫 How to reach me sasha@firsov.net
