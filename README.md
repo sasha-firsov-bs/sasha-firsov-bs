@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Sasha Firsov from Bay Area, CA
+- 👋 Hi, I’m `Sasha Firsov` aka `suns` from Bay Area, CA
 - 👀 I’m interested in newest IT and science trends. 
 - 🌱 I’m currently learning GraphQL implementations for back- and front-end
 - 💞️ I’m looking to collaborate on next generation of technologies: CDN as JS repo and deployment, microapplication container, XSLT in browser.
-- 📫 How to reach me sasha@firsov.net
+- ✒️ Engaged in oncomming web standards development in [WICG](https://github.com/WICG)
+- 📫 How to reach me sasha@firsov.net, DM [@SashaFirsov](https://twitter.com/SashaFirsov)
